@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<com.afollestad.materialdialogs.internal.button.DialogActionButtonLayout
+<com.vng.materialdialogs.internal.button.DialogActionButtonLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/md_button_layout"
@@ -14,22 +14,22 @@
       style="@style/MD_Dialog_CheckPrompt"
       />
 
-  <com.afollestad.materialdialogs.internal.button.DialogActionButton
+  <com.vng.materialdialogs.internal.button.DialogActionButton
       android:id="@+id/md_button_positive"
       tools:text="Agree"
       style="@style/MD_ActionButton"
       />
 
-  <com.afollestad.materialdialogs.internal.button.DialogActionButton
+  <com.vng.materialdialogs.internal.button.DialogActionButton
       android:id="@+id/md_button_negative"
       tools:text="Disagree"
       style="@style/MD_ActionButton"
       />
 
-  <com.afollestad.materialdialogs.internal.button.DialogActionButton
+  <com.vng.materialdialogs.internal.button.DialogActionButton
       android:id="@+id/md_button_neutral"
       tools:text="Idk"
       style="@style/MD_ActionButton"
       />
 
-</com.afollestad.materialdialogs.internal.button.DialogActionButtonLayout>
+</com.vng.materialdialogs.internal.button.DialogActionButtonLayout>
